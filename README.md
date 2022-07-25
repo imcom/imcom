@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to Imcom's README.
+
+![](https://komarev.com/ghpvc/?username=maajor&label=Profile+Views)
+
 ![Imcom's GitHub stats](https://github-readme-stats.vercel.app/api?username=imcom&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imcom)](https://github.com/anuraghazra/github-readme-stats)
