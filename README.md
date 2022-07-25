@@ -2,7 +2,7 @@
 
 Welcome to Imcom's README.
 
-![](https://komarev.com/ghpvc/?username=maajor&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=imcom&label=Profile+Views)
 
 ![Imcom's GitHub stats](https://github-readme-stats.vercel.app/api?username=imcom&count_private=true)
 
